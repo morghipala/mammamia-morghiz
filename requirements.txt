@@ -9,4 +9,3 @@ lxml
 slowapi
 curl_cffi
 fake-headers
-mediaflow-proxy
